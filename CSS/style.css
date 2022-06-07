@@ -1,0 +1,23 @@
+body{
+    background-color: gray;
+}
+
+.logo{
+    padding: 0.3rem;
+    background-color: rgb(34, 77, 220);
+    border-radius: 5px;
+    color: white;
+
+}
+
+.logos{
+    background-color: rgb(75, 72, 72);
+}
+
+.titulo{
+    margin-top: 2rem;
+    text-align: center;
+    padding: 1rem;
+    font-size: 30px;
+    
+}
