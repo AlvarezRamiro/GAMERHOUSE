@@ -21,3 +21,16 @@ body{
     font-size: 30px;
     
 }
+
+img:hover{
+    padding: 1rem;
+}
+
+a:hover{
+    border-style: double;
+}
+
+btn{
+    border-color: blueviolet;
+    border: 10px;
+}
